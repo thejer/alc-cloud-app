@@ -27,13 +27,13 @@ function App() {
           </a>
         </p>
         <p>
-          Checkout the source code &nbsp; 
+          Checkout the source code on &nbsp; 
           <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/thejer/alc-cloud-app"
           target="_blank"
           rel="noopener noreferrer">
-          here
+          GitHub
           </a>
         </p>
         <div className="Images-div">
